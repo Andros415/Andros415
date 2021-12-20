@@ -1,12 +1,14 @@
-<h2 align="center">Hey there 👋 - I'm Andrei!</h2>
+<h2 align="center">Hey there 👋 - I'm Andrei 😄!</h2>
 
 A full-stack web developer and University of Georgia graduate whose passionate about delving into new areas/technologies such as Machine Learning and UI/UX to build out my 'web' 🕸️ of skills and empowering others to do the same
 
 ## 🔭 What I'm currently working on
-- Advising on how to revamp the current [UGAHacks](https://github.com/ugahacks) system infrastructure to increase maintainability for future events
+- Learning some new skills such as Tailwind and R 
+- Becoming more well-versed in cloud technologies
 
 ## 🌱 Currently delving into 
-<img align="left" alt="next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img align="left" alt="tailwind css" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img align="left" alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
 <br>
