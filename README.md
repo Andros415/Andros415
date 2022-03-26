@@ -1,6 +1,6 @@
 <h2 align="center">Hey there 👋 - I'm Andrei 😄!</h2>
 
-A full-stack web developer and University of Georgia graduate whose passionate about delving into new areas/technologies such as Machine Learning and UI/UX to build out my 'web' 🕸️ of skills and empowering others to do the same
+<p align="center"><i>A full-stack web developer and University of Georgia graduate who's passionate about delving into new areas/technologies such as Machine Learning and UI/UX to build out my 'web' 🕸️ of skills and empowering others to do the same</i></p>
 
 ## 🔭 What I'm currently working on
 - Learning some new skills such as Tailwind and R 
