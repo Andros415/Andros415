@@ -42,9 +42,9 @@
 
 ## 📈 Crunching the Numbers
 
-[![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=andros415&theme=tokyonight)](https://github.com/andros415/github-readme-stats)
+[![Andrei's GitHub Stats](https://github-stats-extended.vercel.app/api?username=andros415&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=andros415&include_all_commits=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andros415&layout=compact&theme=tokyonight)](https://github.com/andros415/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=andros415&langs_count=4&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=andros415&langs_count=4&theme=vue-dark)
 
 <!--
 **Andros415/Andros415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
